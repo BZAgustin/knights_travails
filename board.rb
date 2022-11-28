@@ -14,4 +14,8 @@ class Board
       end
     end
   end
+
+  def knight_moves
+  
+  end
 end
