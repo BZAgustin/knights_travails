@@ -15,7 +15,7 @@ class Board
     end
   end
 
-  def knight_moves
-  
+  def knight_moves(origin, destination)
+		
   end
 end
